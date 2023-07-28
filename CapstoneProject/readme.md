@@ -6,13 +6,13 @@ Raspberry Pi OS is installed and upgraded.
 
 References:
 
-- https://www.brachiograph.art/tutorial/construct.html
-- https://www.brachiograph.art/tutorial/wiring.html
-- https://www.brachiograph.art/tutorial/power.html
-- https://www.brachiograph.art/tutorial/sophisticated-calibration.html
-- https://www.brachiograph.art/tutorial/start-plotting.html
-- https://www.brachiograph.art/explanation/mathematics.html
-- https://www.brachiograph.art/explanation/understand-plotter-geometry.html
+- https://www.brachiograph.art/en/latest/tutorial/construct.html
+- https://www.brachiograph.art/en/latest/tutorial/wiring.html
+- https://www.brachiograph.art/en/latest/tutorial/power.html
+- https://www.brachiograph.art/en/latest/tutorial/sophisticated-calibration.html
+- https://www.brachiograph.art/en/latest/tutorial/start-plotting.html
+- https://www.brachiograph.art/en/latest/explanation/mathematics.html
+- https://www.brachiograph.art/en/latest/explanation/understand-plotter-geometry.html
 - https://www.raspberrypi.org/documentation/usage/gpio/
 - https://pinout.xyz/
 
