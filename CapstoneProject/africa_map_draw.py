@@ -6,7 +6,7 @@ from linedraw import *
 inner_arm = 8
 outer_arm = 8
 
-bg = BrachioGraph(inner_arm, outer_arm)
+bg = BrachioGraph(inner_arm, outer_arm,virtual=False)
 
 if __name__ == "__main__":
 
